@@ -1,7 +1,7 @@
 {
     "Author": "Alexandre Gattiker",
     "ContentSize": 2714,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/compute-total-usage-of-folders-in-azure-data-lake-store-(recursively)/master/adlssizes.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/compute-total-usage-of-folders-in-azure-data-lake-store--recursively-/master/adlssizes.ps1",
     "DownloadCount": 946,
     "Id": "Compute-total-usage-of-9107c734",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "Computes the total space used by all sub-directories of an arbitrary directory of an Azure Data Lake Store (by default, the root directory), and upload a files to the Data Lake Store containing the total space used for each sub-directory.The process involves one API call for each",
     "Title": "Compute total usage of folders in Azure Data Lake Store (recursively)",
     "UpdatedDate": "2017-9-21T00:00:00",
-    "Url": "https://github.com/azureautomation/compute-total-usage-of-folders-in-azure-data-lake-store-(recursively)",
+    "Url": "https://github.com/azureautomation/compute-total-usage-of-folders-in-azure-data-lake-store--recursively-",
     "UserTags": "Data Lake Store"
 }
